@@ -1,4 +1,4 @@
-TripTrek: Intelligent Travel Planning Using Using Palm’s Chat-Baison-001
+TripTrek: Intelligent Travel Planning Using Using Gemini
 
 TripTrek is an AI-powered travel planning platform designed to revolutionize the way people plan and organize their trips. By leveraging advanced artificial intelligence algorithms, TripTrek offers users personalized travel itineraries tailored to their preferences, interests, and budget constraints. The platform combines machine learning models with rich travel data to provide users with comprehensive recommendations for accommodations, activities, dining options, transportation, and more. With TripTrek, travelers can say goodbye to the hassle of manually researching and organizing every  aspect of their trip and instead enjoy a seamless and stress-free travel planning experience.
 
